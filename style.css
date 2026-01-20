@@ -1,1 +1,20 @@
-
+body{
+  background-color: #d2b48c;
+  margin-left: 20%;
+  margin-right: 20%;
+  border: 2xp dotted black;
+  padding: 10xp 10xp 10xp 10xp;
+  font-family: sans serif;
+}
+blockquote.q {
+  color: #D4AF37;
+  border-left: 4xp solid #8B0000;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Pudelinka";
+  src: url("Fonts/pudelinka.ttf) format("truetype");
+  font-weight: normal;
+  front-style: normal;
+}
+p.quote { font-family: "Pudelinka", cursitive;}
